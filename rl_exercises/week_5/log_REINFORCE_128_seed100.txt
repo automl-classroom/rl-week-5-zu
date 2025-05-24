@@ -1,0 +1,44 @@
+/mnt/c/Users/93699/Desktop/course/3. semester/RL/exercises/rl-week-5-zu/.venv/lib/python3.11/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+[Train] Ep  10 Return  13.0 Loss -0.000
+[Eval ] Ep  10 AvgReturn  11.0 ±  0.0
+[Train] Ep  20 Return  12.0 Loss 0.000
+[Eval ] Ep  20 AvgReturn   9.0 ±  0.0
+[Train] Ep  30 Return  12.0 Loss 0.000
+[Eval ] Ep  30 AvgReturn  10.0 ±  0.0
+[Train] Ep  40 Return   9.0 Loss -0.000
+[Eval ] Ep  40 AvgReturn   9.0 ±  0.0
+[Train] Ep  50 Return  10.0 Loss 0.000
+[Eval ] Ep  50 AvgReturn  10.0 ±  0.0
+[Train] Ep  60 Return  10.0 Loss 0.000
+[Eval ] Ep  60 AvgReturn   9.0 ±  0.0
+[Train] Ep  70 Return   8.0 Loss 0.000
+[Eval ] Ep  70 AvgReturn   9.0 ±  0.0
+[Train] Ep  80 Return  12.0 Loss 0.000
+[Eval ] Ep  80 AvgReturn   9.0 ±  0.0
+[Train] Ep  90 Return   9.0 Loss -0.000
+[Eval ] Ep  90 AvgReturn  10.0 ±  0.0
+[Train] Ep 100 Return   9.0 Loss -0.000
+[Eval ] Ep 100 AvgReturn   9.0 ±  0.0
+[Train] Ep 110 Return  10.0 Loss 0.000
+[Eval ] Ep 110 AvgReturn   9.0 ±  0.0
+[Train] Ep 120 Return  10.0 Loss 0.000
+[Eval ] Ep 120 AvgReturn   9.0 ±  0.0
+[Train] Ep 130 Return  10.0 Loss 0.000
+[Eval ] Ep 130 AvgReturn   9.0 ±  0.0
+[Train] Ep 140 Return  12.0 Loss 0.000
+[Eval ] Ep 140 AvgReturn   9.0 ±  0.0
+[Train] Ep 150 Return   9.0 Loss -0.000
+[Eval ] Ep 150 AvgReturn   9.0 ±  0.0
+[Train] Ep 160 Return  12.0 Loss 0.000
+[Eval ] Ep 160 AvgReturn   9.0 ±  0.0
+[Train] Ep 170 Return  10.0 Loss 0.000
+[Eval ] Ep 170 AvgReturn   9.0 ±  0.0
+[Train] Ep 180 Return  10.0 Loss 0.000
+[Eval ] Ep 180 AvgReturn   9.0 ±  0.0
+[Train] Ep 190 Return  10.0 Loss 0.000
+[Eval ] Ep 190 AvgReturn  10.0 ±  0.0
+[Train] Ep 200 Return  11.0 Loss 0.000
+[Eval ] Ep 200 AvgReturn   8.0 ±  0.0
+Training complete.
